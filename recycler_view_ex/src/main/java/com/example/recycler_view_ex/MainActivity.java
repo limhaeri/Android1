@@ -58,6 +58,7 @@ class CustomRecyclerViewAdapter extends RecyclerView.Adapter<CustomRecyclerViewA
         return data.length; //데이터 배열의 길이 => 아이템의 개수
     }
 
+    //3
     public static class ViewHolder extends RecyclerView.ViewHolder{
         //4
         private final TextView textView;

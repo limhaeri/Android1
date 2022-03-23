@@ -15,10 +15,11 @@ public class ArrayAdapterActivity extends AppCompatActivity {
         listView = (ListView) findViewById(R.id.listView);
         String [] data = {"이명지", "김인보", "나잘란", "진달래", "황금복", "최전선",
                 "마진가", "백김치", "오리온", "조이풀"};
-        ArrayAdapter<String> arrayAdapter = new ArrayAdapter(
+        ArrayAdapter<String> arrayAdapter = new ArrayAdapter<>(
                 getApplicationContext(),
                 android.R.layout.simple_list_item_1,
-                data);
+                data
+        );
         listView.setAdapter(arrayAdapter);
 
     }

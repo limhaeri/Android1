@@ -12,7 +12,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/adapter_ex" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fragment_ex1" />
+            <option value="$PROJECT_DIR$/mjc" />
             <option value="$PROJECT_DIR$/recycler_view_ex" />
+            <option value="$PROJECT_DIR$/recycler_view_ex2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

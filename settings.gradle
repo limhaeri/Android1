@@ -16,3 +16,6 @@ rootProject.name = "Android"
 include ':app'
 include ':adapter_ex'
 include ':recycler_view_ex'
+include ':recycler_view_ex2'
+include ':fragment_ex1'
+include ':mjc'
